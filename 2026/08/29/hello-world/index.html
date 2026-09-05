@@ -56,6 +56,10 @@
   
 
   
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/artalk@2.9.1/dist/Artalk.css">
+
+<script defer src="https://cdn.jsdelivr.net/npm/artalk@2.9.1/dist/Artalk.js"></script>
+
 
   
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
@@ -327,24 +331,57 @@
 
   <section class="side-card profile-card">
     
-      <div class="avatar" aria-hidden="true">
-        <span></span><i></i><em></em><b></b>
+      <div class="avatar avatar--image avatar--circle">
+        <img src="/images/favicon.png" alt="duoduo61" loading="lazy" referrerpolicy="no-referrer">
       </div>
     
     <h3>duoduo61</h3>
-    <p class="profile-role">日常记录</p>
-    <p>介绍一下自己 — 一两句话，写写你想被别人记住的部分。</p>
+    <p class="profile-role">因你而在的故事</p>
+    <p>都走吧，没有人属于我</p>
+    
+      <div class="site-info" aria-label="站点信息">
+        
+          
+            <a class="site-info__item" href="/archives/">
+              <strong>1</strong>
+              <span>文章</span>
+            </a>
+          
+        
+          
+            <a class="site-info__item" href="/categories/">
+              <strong>0</strong>
+              <span>分类</span>
+            </a>
+          
+        
+          
+            <a class="site-info__item" href="/tags/">
+              <strong>0</strong>
+              <span>标签</span>
+            </a>
+          
+        
+      </div>
     
     <div class="socials">
       
-      
-        
-        
-        <a href="/atom.xml" aria-label="RSS feed" data-tooltip="RSS feed">
+        <a href="https://github.com/duoduo61" target="_blank" rel="noopener" aria-label="GitHub" data-tooltip="GitHub">
           
-<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rss flatpaper-icon flatpaper-icon--lucide" aria-hidden="true"><use href="/icons.svg#flatpaper-icon-lucide-rss"></use></svg>
+            
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 496 512" fill="currentColor" class="lucide lucide-github flatpaper-icon flatpaper-icon--fa-brands" aria-hidden="true"><use href="/icons.svg#flatpaper-icon-fa-brands-github"></use></svg>
 
+          
         </a>
+      
+        <a href="https://space.bilibili.com/3546713002346791" target="_blank" rel="noopener" aria-label="Bilibili" data-tooltip="Bilibili">
+          
+            
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 512 512" fill="currentColor" class="lucide lucide-bilibili flatpaper-icon flatpaper-icon--fa-brands" aria-hidden="true"><use href="/icons.svg#flatpaper-icon-fa-brands-bilibili"></use></svg>
+
+          
+        </a>
+      
       
     </div>
   </section>
@@ -475,6 +512,27 @@
 
       
 
+<section class="comments-section" aria-label="评论">
+  <header class="comments-section__head">
+    <h2>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle flatpaper-icon flatpaper-icon--lucide" aria-hidden="true"><use href="/icons.svg#flatpaper-icon-lucide-message-circle"></use></svg>
+评论</h2>
+  </header>
+  <div id="artalk-comments"></div>
+</section>
+<script>
+window.addEventListener('load', function () {
+  if (typeof Artalk === 'undefined' || typeof Artalk.init !== 'function') return;
+  Artalk.init({
+    el: '#artalk-comments',
+    pageKey: "https://duoduo61.de5.net/2026/08/29/hello-world/",
+    pageTitle: "Hello World",
+    server: "https://artalk-production-5ead.up.railway.app/",
+    site: "default"
+  });
+});
+</script>
+
 
     </section>
     
@@ -485,12 +543,6 @@
   
 <footer class="site-footer">
   <span class="site-footer__left">© 2026 By duoduo61</span>
-  
-    <span class="site-footer__right">
-      
-        <span class="site-footer__row"><span class="site-footer__powered-prefix">Powered by Theme</span> <a href="https://github.com/Homulilly/hexo-theme-flatpaper" target="_blank" rel="noopener">FlatPaper</a></span>
-      
-    </span>
   
 </footer>
 
