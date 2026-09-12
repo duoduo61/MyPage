@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, duoduo61</rights>
   <subtitle>因你而在的故事</subtitle>
   <title>多多のblog</title>
-  <updated>2026-08-29T14:05:18.148Z</updated>
+  <updated>2026-09-12T09:55:32.161Z</updated>
+  <entry>
+    <author>
+      <name>duoduo61</name>
+    </author>
+    <category term="划水" scheme="https://duoduo61.de5.net/categories/%E5%88%92%E6%B0%B4/"/>
+    <category term="划水" scheme="https://duoduo61.de5.net/tags/%E5%88%92%E6%B0%B4/"/>
+    <content>
+      <![CDATA[<p><span style="font-size:20px;color:#008000;">虽然不知道有什么用，但还是把这个博客搭起来了。</span></p><p><span style="font-size:20px;color:#008000;">但我得先说清楚：我真的不怎么会写文章。</span></p><p>我仅仅是一名学生罢了，课业繁重，博客不会定时更新，可能有时候一天更新两三篇，有时候两三个月都不更新</p><p>所以这个博客应该是：</p><p>· 遇到了什么难修的Bug，顺手记一下</p><p>· 发现了什么好资源或宝藏网站，随缘分享</p><p>· 又或者是N年没更新了，再来水一篇</p><p>……</p><p>最后，感谢你点进来看我的第一篇文章。</p><p>那就……先这样吧。</p><p>GoodBye~</p><p>对了，评论区已开放 ↓ ，快给我留言吧</p>]]>
+    </content>
+    <id>https://duoduo61.de5.net/2026/09/%E5%85%88%E6%B0%B4%E4%B8%80%E7%AF%87%E5%86%8D%E8%AF%B4/</id>
+    <link href="https://duoduo61.de5.net/2026/09/%E5%85%88%E6%B0%B4%E4%B8%80%E7%AF%87%E5%86%8D%E8%AF%B4/"/>
+    <published>2026-09-12T09:26:37.000Z</published>
+    <summary>
+      <![CDATA[<p><span style="font-size:20px;color:#008000;">虽然不知道有什么用，但还是把这个博客搭起来了。</span></p>
+<p><span style="font-size:20px;color:#008000;">但我得先说清楚：我真的]]>
+    </summary>
+    <title>先水一篇再说</title>
+    <updated>2026-09-12T09:55:32.161Z</updated>
+  </entry>
   <entry>
     <author>
       <name>duoduo61</name>
@@ -18,8 +37,8 @@
     <content>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
     </content>
-    <id>https://duoduo61.de5.net/2026/08/29/hello-world/</id>
-    <link href="https://duoduo61.de5.net/2026/08/29/hello-world/"/>
+    <id>https://duoduo61.de5.net/2026/08/hello-world/</id>
+    <link href="https://duoduo61.de5.net/2026/08/hello-world/"/>
     <published>2026-08-29T14:19:11.972Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
