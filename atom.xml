@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, duoduo61</rights>
   <subtitle>因你而在的故事</subtitle>
   <title>多多のblog</title>
-  <updated>2026-10-01T13:32:41.392Z</updated>
+  <updated>2026-10-03T15:11:13.147Z</updated>
+  <entry>
+    <author>
+      <name>duoduo61</name>
+    </author>
+    <category term="技术" scheme="https://duoduo61.de5.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="自制项目" scheme="https://duoduo61.de5.net/tags/%E8%87%AA%E5%88%B6%E9%A1%B9%E7%9B%AE/"/>
+    <category term="AI" scheme="https://duoduo61.de5.net/tags/AI/"/>
+    <content>
+      <![CDATA[<p>先来一句<strong>迟到的国庆快乐</strong>，祝大家财源广进，幸福安康！</p><hr><h1 id="创作灵感"><a href="#创作灵感" class="headerlink" title="创作灵感"></a>创作灵感</h1><p>由于我的手机没有装SIM卡，所以一旦在山区或其他没有wifi覆盖的地方，我的手机就成了一台啥用没有的美丽废物</p><p>于是乎，在国庆节时心血来潮，想着做一个AI象棋</p><p>这个象棋项目是用DeepSeek V4.1 Flash完成的——从规则引擎到 AI 搜索算法，从 Canvas 渲染到响应式布局，所有的代码都是由Deepseek完成的。</p><h1 id="开发过程"><a href="#开发过程" class="headerlink" title="开发过程"></a>开发过程</h1><p>2025 年，Andrej Karpathy 提出了“Vibe Coding”这个词，意思是开发者不再逐行编写代码，而是用自然语言向 AI 描述意图，由 AI 生成、调试并迭代软件。短短一年多，这种模式已经渗透进主流开发流程。Cursor 的报告显示，开发者每周的人均编码量翻了一倍以上，单次提交的代码量暴涨 2.5 倍。逐行手写代码的方式，甚至被戏称为“古法编程”。</p><p>本来我以为，这次的开发过程更像是一场酣畅淋漓的满级智斗，但没想到，它却给了我一个意想不到的惊喜，我甚至因为懒得配置，直接使用了网页端，它却做出了令我超乎寻常的效果。</p><figure>  <img src="/images/20261003/example.png" alt="example">  <figcaption>跟Deepseek的对话内容</figcaption></figure><p>接下来我就把这些代码上传到<a href="https://github.com/duoduo61/html5-aichess">GitHub</a>并搞了两个示例网站</p><ul><li><a href="https://520-1314.cc.cd/">主站（国内推荐）</a></li><li><a href="https://zh-chess.pages.dev/">备用站（Cloudflare Pages）</a></li></ul><h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><p>科技在进步，人也要进步。AI 能生成代码、调试错误、补全文档，甚至根据一句话搭出可运行的原型，但这只改变了实现的速度，没有改变创作的责任。</p><p>Vibe Coding 降低了“做出来”的成本，但“做什么”和“为什么做”，仍然是我们自己的事。</p>]]>
+    </content>
+    <id>https://duoduo61.de5.net/2026/10/%E6%88%91%E7%94%A8DeepSeek%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AAAI%E8%B1%A1%E6%A3%8B/</id>
+    <link href="https://duoduo61.de5.net/2026/10/%E6%88%91%E7%94%A8DeepSeek%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AAAI%E8%B1%A1%E6%A3%8B/"/>
+    <published>2026-10-03T13:25:20.000Z</published>
+    <summary>
+      <![CDATA[<p>先来一句<strong>迟到的国庆快乐</strong>，祝大家财源广进，幸福安康！</p>
+<hr>
+<h1 id="创作灵感"><a href="#创作灵感" class="headerlink" title="创作灵感"></a>创作灵感</h1><p>由于我的手机没]]>
+    </summary>
+    <title>我用DeepSeek做了一个AI象棋!</title>
+    <updated>2026-10-03T15:11:13.147Z</updated>
+  </entry>
   <entry>
     <author>
       <name>duoduo61</name>
